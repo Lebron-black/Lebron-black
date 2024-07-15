@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lebron-black
-- 👀 I’m interested in learning more programming, coding and data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on other professionals
+- 👋 Hi, I’m @Bala Ibrahim
+- 👀 I’m interested in learning cyber security
+- 🌱 I’m currently learning the cyber security fundamentals
+- 💞️ I’m looking to collaborate with other professionals
 - 📫 How to reach me bala.ibrahim84@yahoo.com
 
 <!---
